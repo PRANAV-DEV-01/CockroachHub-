@@ -1,0 +1,38 @@
+[
+  {
+    "stationId": "s1",
+    "status": "Closed",
+    "reason": "Security protocols and heavy crowd management",
+    "lastUpdated": "2023-11-15T09:30:00Z"
+  },
+  {
+    "stationId": "s2",
+    "status": "Limited",
+    "reason": "Platform 2 and 3 closed due to signal failure",
+    "lastUpdated": "2023-11-15T08:15:00Z"
+  },
+  {
+    "stationId": "s12",
+    "status": "Limited",
+    "reason": "Escalators and lifts out of service",
+    "lastUpdated": "2023-11-15T07:45:00Z"
+  },
+  {
+    "stationId": "s16",
+    "status": "Closed",
+    "reason": "Track maintenance work ongoing",
+    "lastUpdated": "2023-11-15T06:00:00Z"
+  },
+  {
+    "stationId": "s22",
+    "status": "Limited",
+    "reason": "Slower train frequency on Pink line segment",
+    "lastUpdated": "2023-11-15T10:05:00Z"
+  },
+  {
+    "stationId": "s32",
+    "status": "Closed",
+    "reason": "Student protests around campus area",
+    "lastUpdated": "2023-11-15T11:20:00Z"
+  }
+]
